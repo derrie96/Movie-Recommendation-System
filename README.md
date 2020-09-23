@@ -4,7 +4,7 @@
 Our goal of the project is to recommend new movies to users, to dig out what users may like but they did not know before. We aim to build a movie recommendation system by exploring different approaches such as market basket, collaborative filtering, clustering, etc.​
 Dataset description:
 The data is MovieLens dataset is taken from GroupLens website.
-The dataset is spread across multiple csv files. As we can see, one csv file has information about movies like the movie Id, movie title and the genres the movie belong to. Another csv file has information about the user and the ratings the user has given to the movie. In order to make maximum use of the data we have at hand we have merged all the tables together and what we see is a snapshot of what the merged data looks like.
+The dataset is spread across multiple csv files. As we can see, one csv file has information about movies like the movie Id, movie title and the genres the movie belong to. Another csv file has information about the user and the ratings the user has given to the movie. 
 
 
 ## Market Basket Analysis
